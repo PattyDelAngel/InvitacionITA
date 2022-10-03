@@ -4,13 +4,16 @@ padding:0;
 
 
 }
+header{
+background: url("img//fondo.jpg")no-repeat center center;
+background-size: 100% ;
+   height: 10px;
+}
 
 body {
 
 
-background: url("img//fondo.jpg")no-repeat center center;
-background-size: 100% ;
-   height: 10px;
+
 }
 
 
